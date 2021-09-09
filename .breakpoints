@@ -1,0 +1,18 @@
+{
+  "files": {
+    "nextjs-blog/pages/index.js": [
+      {
+        "id": "d0371491-1543-4181-9f26-6a29a42b58cf",
+        "line": 22,
+        "version": 161,
+        "index": 526
+      },
+      {
+        "id": "e5335288-b6c4-417d-9028-d16dd1e8985a",
+        "line": 24,
+        "version": 161,
+        "index": 532
+      }
+    ]
+  }
+}
