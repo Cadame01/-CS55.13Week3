@@ -1,17 +1,11 @@
 {
   "files": {
-    "nextjs-blog/pages/index.js": [
+    "nextjs-blog/components/date.js": [
       {
-        "id": "d0371491-1543-4181-9f26-6a29a42b58cf",
-        "line": 22,
-        "version": 161,
-        "index": 526
-      },
-      {
-        "id": "e5335288-b6c4-417d-9028-d16dd1e8985a",
-        "line": 24,
-        "version": 161,
-        "index": 532
+        "id": "fc79d0ae-f7c2-4fc1-9562-8984f5498bca",
+        "line": 1,
+        "version": 0,
+        "index": 0
       }
     ]
   }
